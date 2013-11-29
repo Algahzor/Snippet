@@ -1,0 +1,9 @@
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\bin\Release\Snippet.exe.config
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\bin\Release\Snippet.exe
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\bin\Release\Snippet.pdb
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.Form1.resources
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.Properties.Resources.resources
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.csproj.GenerateResource.Cache
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.exe
+c:\users\newdev1\documents\visual studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.pdb
+C:\Users\NewDev1\Documents\Visual Studio 2012\Projects\Snippet\Snippet\obj\Release\Snippet.csprojResolveAssemblyReference.cache
